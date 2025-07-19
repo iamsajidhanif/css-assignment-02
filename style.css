@@ -1,0 +1,71 @@
+body {
+    color: rgb(13, 47, 197);
+}
+
+/* Specificity */
+#html#html#html#html#html#html#html {
+    background-color: gray
+}
+
+li#html.html {
+    background-color: rgb(255, 251, 0)
+}
+
+#html.html {
+    background-color: cyan
+}
+
+#html {
+    background-color: red;
+}
+
+.html {
+    background-color: blue;
+}
+
+li {
+    background-color: green;
+}
+
+li {
+    background-color: orange;
+}
+
+/* Specificity */
+
+/* Border */
+
+/* How to create Cirle in CSS? */
+.one {
+    background-color: rgb(187 179 195);
+    width: 300px;
+    height: 300px;
+    padding: 0px;
+    margin: 40px;
+    border: 10px solid rebeccapurple;
+    border-radius: 20px;
+    /* box-sizing: border-box;
+    border and padding take space from content box/ element's width) */
+    border-radius: 50%;
+    overflow: hidden;
+    outline: 10px solid green;
+}
+
+img {
+    width: 100%;
+    margin-top: -25px;
+}
+/* How to create Cirle in CSS? */
+
+.two {
+    background-color: hotpink;
+    width: 300px;
+    padding: 25px;
+    margin: 40px;
+    border: 10px solid green;
+    border-radius: 20px;
+    box-sizing: border-box;
+    /* border and padding take space from content box/ element's width) */
+}
+
+/* Border */

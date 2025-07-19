@@ -1,0 +1,19 @@
+/* Cascading */
+body {
+    color: blue;
+}
+/* Cascading */
+
+ul {
+    font-size: 32xp;
+    font-weight: 900;
+    font-family: cursive;
+    font-style: italic;
+}
+
+/* Inheritance */
+button {
+    font-family: inherit;
+}
+/* Inheritance */
+

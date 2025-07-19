@@ -1,0 +1,17 @@
+.one {
+    outline: 10px solid green;
+    border: 10px solid red;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #bab3bb;
+
+}
+
+img {
+    width: 100%;
+    margin-top: -20px;
+}
